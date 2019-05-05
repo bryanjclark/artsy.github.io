@@ -73,7 +73,7 @@ industry for everyone too.
 > [Dependencies][d1], [Dropped Design Patterns][d2], [Hybrid Apps][d3], [ARSwitchboard][d4] & [ARRouter][d5]
 
 I think the pinnacle of my writing in this phase comes from a collaboration with the entire iOS team the magazine
-[obcj.io][objcio] - [iOS at Scale: Artsy][scale-artsy].
+[objc.io][objcio] - [iOS at Scale: Artsy][scale-artsy].
 
 As we hired, it became important to find ways to teach each other how our native codebases work. So, we have a set
 of open codebase walk-throughs which explain the high level architecture and occasionally deep-dive on specific
